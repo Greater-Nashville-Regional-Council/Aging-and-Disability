@@ -1,4 +1,4 @@
-# **Aging-and-Disability-Public-Requests**
+# **Aging and Disability Public Requests**
 
 This repository hosts multiple sub-repositories creating a clearing house for data and analysis requests from the Greater Nashville Regional Council Area Agency on Aging and Disability.  
 
