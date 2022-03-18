@@ -33,4 +33,4 @@ In the GNRC Region:
 ## Maps
 
 This data can be further explored with an interactive geospatial visualization.
-Find choropleth maps of the total minority population, over 55 minority population, and over 65 minority population <a href="https://nbviewer.org/github/Greater-Nashville-Regional-Council/Senior-Minority-Population/blob/main/notebooks/2.%20Maps.ipynb">here</a>. Scroll down to see and interact with the three maps.
+Find choropleth maps of the total minority population, over 55 minority population, and over 65 minority population <a href="https://nbviewer.org/github/Greater-Nashville-Regional-Council/Aging-and-Disability/blob/main/Senior%20Minority%20Population/notebooks/2.%20Maps.ipynb">here</a>. Scroll down to see and interact with the three maps.
