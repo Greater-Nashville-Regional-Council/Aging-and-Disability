@@ -1,4 +1,4 @@
-# **Senior-Minority-Population**
+# **Senior Minority Population**
 
 ## *Table of Contents*  
 + Overview
