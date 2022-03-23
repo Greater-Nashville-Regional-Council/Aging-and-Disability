@@ -7,24 +7,16 @@
 
 ## Overview  
 
-MySidewalk does not have veteran status by age, and this is requested as a demographic overview for the GNRC Senior Center profiles.  
+MySidewalk does not have the place of birth for the foreign-born population in all categories. Collection and cleaning outline below.  
 
 ## Data Prep  
 
 The following data is obtained at the county level for the 13 county GNRC region using the Census API from the 2016-2020 American Community Survey 5-Year Estimates:  
 
-+ data from the B21001 population series; age by sex by veteran status  
++ data from series B05006; 001E through 168E, all continents, regions, subregions, and countries.   
 
-There is a data limitation where veteran population by age is not able to be determined for the entire region for ages 60+ (this was the original ask). The ACS Subject Tables have series S0102 that does collect this data, however it is not available for less populous counties including Stewart, Humphreys, Houston, and Trousdale.
-
-For this reason, data is collected for the 65+ population to match the rest of the profile data.
-
-Data prep includes calculating the total population 65+ for this data series, the # of veterans 65+, the percent of veterans who are seniors, and the percent of the senior population who are veterans.  
+After the API pull, this data is joined into one larger dataframe for the GNRC region so that calculations can be made for share of the total population by origin as well as share of the total foreign born population. This can then be used at a regional or county level.
 
 ## Results  
 
-The table containing this data for each county and the 13 county region is found below:  
-
-![2020 Table](/images/2020_table.PNG)
-
-**This data is exported to be imported as original data in MySidewalk.**
+This data is best viewed and disseminated by the individual researcher as they can contextualize the different geographical levels to create a picture for their audience.
