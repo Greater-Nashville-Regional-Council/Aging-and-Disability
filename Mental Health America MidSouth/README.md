@@ -17,7 +17,7 @@ The following data is obtained at the state level using the Census API from the 
 + B01001 population series; age by sex for the population 55+ and 65+  
 + B01001A - I population series; age by sex by race or ethnicity for the population 55+  
 + B19037 series; household income for householders age 65+  
-+ variableB19049_005E; median household income for householders age 65+  
++ variable B19049_005E; median household income for householders age 65+  
 + B25007 series; tenure for population 55+  
 + B09020 series; population 65+ living situation    
 + B10051 series; the grandparents survey  
