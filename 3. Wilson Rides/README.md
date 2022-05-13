@@ -32,7 +32,7 @@ Finally, grandparents responsible for grandchildren without a parent present is 
 ## Calculations  
 
 1. Age by sex:  
-+ '# and % 55+  
++ 55+ # and %    
 + # and % 65+  
 2. Veteran status:  
 + # veterans 55+  
