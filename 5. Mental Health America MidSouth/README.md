@@ -29,8 +29,6 @@ The following data is obtained at the state level using the Census API from the 
 
 ## Calculations  
 
-Calculations made are tracked for replication purposes.  
-
 1. Population age groups:  
 + Under 18  
 + 18 to 54  
