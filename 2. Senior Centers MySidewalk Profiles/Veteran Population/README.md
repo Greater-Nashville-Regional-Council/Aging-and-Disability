@@ -3,7 +3,8 @@
 ## *Table of Contents*  
 + Overview
 + Data Prep  
-+ Results    
++ Calculations   
++ Takeaways  
 
 ## Overview  
 
@@ -15,9 +16,14 @@ The following data is obtained at the county level for the 13 county GNRC region
 
 + data from the B21001 population series; age by sex by veteran status  
 
-There is a data limitation where veteran population by age is not able to be determined for the entire region for ages 60+ (this was the original ask). The ACS Subject Tables have series S0102 that does collect this data, however it is not available for less populous counties including Stewart, Humphreys, Houston, and Trousdale.
+There is a data limitation where veteran population by age is not able to be determined for the entire region for ages 60+ (this was the original ask). The ACS Subject Tables have series S0102 that does collect this data, however it is not available for less populous counties including Stewart, Humphreys, Houston, and Trousdale. For this reason, data is collected for the 65+ population to match the rest of the profile data.
 
-For this reason, data is collected for the 65+ population to match the rest of the profile data.
+## Calculations  
+
+1. Veteran population:  
++ number of veterans 65+  
++ share of veterans that are 65+  
++ share of 65+ population that are veterans
 
 Data prep includes calculating the total population 65+ for this data series, the # of veterans 65+, the percent of veterans who are seniors, and the percent of the senior population who are veterans.  
 
@@ -25,6 +31,6 @@ Data prep includes calculating the total population 65+ for this data series, th
 
 The table containing this data for each county and the 13 county region is found below:  
 
-![2020 Table](/images/2020_table.PNG)
+![2020 Table](images/2020_table.PNG)
 
 **This data is exported to be imported as original data in MySidewalk.**
