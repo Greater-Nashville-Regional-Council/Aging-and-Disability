@@ -80,3 +80,5 @@ Takeaways from this data pull:
 + **19.8% of the foreign born population is 55+**  
 + **2.6% of the 65+ population has a first language besides English, and of this group 32.2% speak English "not well" or "not at all"**  
 + **10.6% of the 55+ population is below the poverty line**
+
+**Find a data guide in the files above outlining every data variable used as an input.**

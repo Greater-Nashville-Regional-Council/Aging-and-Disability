@@ -33,41 +33,39 @@ Finally, grandparents responsible for grandchildren without a parent present is 
 
 1. Age by sex:  
 + 55+ # and %    
-+ # and % 65+  
++ 65+ # and %  
 2. Veteran status:  
-+ # veterans 55+  
-+ # veterans 65+  
++ veterans 55+  
++ veterans 65+
 + % of all veterans that are 55+  
 + % of all veterans that are 65+  
 3. Poverty:  
-+ # in poverty 55+ and 65+  
++ in poverty 55+ and 65+
 + % of below poverty level population that is 55 and 65+  
 + % of 55 and 65+ population below poverty level  
 4. Educational Attainment:  
-+ # less than 9th grade, 9th to 12th no diploma, hs graduate or equivalency, some college no degree, associates, bachelors, graduate or professional degree  
++ less than 9th grade, 9th to 12th no diploma, hs graduate or equivalency, some college no degree, associates, bachelors, graduate or professional degree  
 + % of 65+ population with the above attainment levels  
 5. Living Situation:  
-+ # and % of 65+ population living alone  
++ 65+ population living alone # and %  
 6. Vehicle Ownership:  
-+ # of households with 65+ householders with no vehicle  
++ households with 65+ householders with no vehicle  
 7. Grandparents:  
-+ # of grandparents 60+ that are responsible for own grandchild no parent present  
++ grandparents 60+ that are responsible for own grandchild no parent present  
 8. Computers:  
-+ # of 65+ population with a computer  
-+ # 65+ population with a computer with only dialup  
-+ # 65+ population with a computer with broadband  
-+ # 65+ population with a computer with no internet  
-+ # 65+ population without a computer  
++ 65+ population with a computer  
++ 65+ population with a computer with only dialup  
++ 65+ population with a computer with broadband  
++ 65+ population with a computer with no internet  
++ 65+ population without a computer  
 9. Housing Burden and Tenure:  
-+ # cost burdened 65+ population  
-+ # extremely cost burdened 65+ population  
-+ # of 65+ homeowners cost burdened and extremely cost burdened  
-+ # of 65+ renters cost burdened and extremely cost burdened  
++ cost burdened 65+ population  
++ extremely cost burdened 65+ population  
++ 65+ homeowners cost burdened and extremely cost burdened  
++ 65+ renters cost burdened and extremely cost burdened  
 + renters 65+  
 + homeowners 65+
 10. Geographic Mobility within the Past Year  
-+ # and % 55 and 65+: no move same house, moved same county, moved counties same state, moved states, or moved from abroad
-
-Data prep includes summing the different groups necessary for fulfilling the request, and calculating appropriate percentages.  
++ 55 and 65+: no move same house, moved same county, moved counties same state, moved states, or moved from abroad # and %
 
 **Find a data guide in the files above outlining every data variable used as an input.**
