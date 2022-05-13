@@ -1,4 +1,4 @@
-# **Senior Minority Population**
+# **Mental Health America**
 
 ## *Table of Contents*  
 + Overview
@@ -8,11 +8,11 @@
 
 ## Overview  
 
-Request received for total population, total minority population, 60+ population, and 60+ minority population.  
+Request received for State of Tennessee level data replicating a previous presentation given by GNRC about the GNRC region.
 
 ## Data Prep  
 
-The following data is obtained at the county level for the 13 county GNRC region using the Census API from the 2016-2020 American Community Survey 5-Year Estimates:  
+The following data is obtained at the state level using the Census API from the 2016-2020 American Community Survey 5-Year Estimates:  
 
 + data from the B01001 population series; age by sex for the population 55+ and 65+  
 + data from the B01001H population series; age by sex for the White Alone, Non Hispanic or Latino Population 55+ and 65+  
