@@ -3,8 +3,7 @@
 ## *Table of Contents*  
 + Overview
 + Data Prep  
-+ Calculations
-+ Takeaways
++ Calculations and Results  
 
 ## Overview  
 
@@ -24,13 +23,13 @@ Data is obtained from the following tables at the county level using the Census 
 
 ## Calculations  
 
-1. Population 65 and Older: 84,748
+1. Population 65 and Older: *84,748*
 2. Cost Burden:  
-+ Householders 65 and Older Experiencing Cost Burden: 17,682  
-+ Percent of Renters 65 and Older Experiencing Cost Burden: 52.8%  
-+ Percent of Homeowners 65 and Older Experiencing Cost Burden: 24.2%    
-3. Median Household Income for Householder 65 and Older: $49,128  
-4. Households with Household Income Below $50,000 Householder 65 and Older: 28,533  
-5. Population 65 and Older Living Below Poverty Line: 8,110
++ Householders 65 and Older Experiencing Cost Burden: *17,682*  
++ Percent of Renters 65 and Older Experiencing Cost Burden: *52.8%*  
++ Percent of Homeowners 65 and Older Experiencing Cost Burden: *24.2%*    
+3. Median Household Income for Householder 65 and Older: *$49,128*  
+4. Households with Household Income Below $50,000 Householder 65 and Older: *28,533*  
+5. Population 65 and Older Living Below Poverty Line: *8,110*
 
 **Find a data guide in the files above outlining every data variable used as an input.**
